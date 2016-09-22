@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: ブログ始めました
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+東京の府中にオープンした隠れ家美容室
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+ヘアサロン　　　シェリマです。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+シャリマは 釈迦が修行したと伝えられるインドカシミール地方の花園の名前
+
+（正しい発音はSHALIMAらしいですが） 男性（HE）と女性（SHE）の花園という 意味で、SHE LIMA（シェリマ） にしました
+
+強引で わかりづらくて、本当にすいませんm（＿　＿）m
+
+一階がきれいな花屋さんなので ちょうど花園の上の美容室 です。
+
+わかりにくい場所にありますが よろしくお願いします。
