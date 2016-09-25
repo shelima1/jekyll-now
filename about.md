@@ -14,4 +14,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@shelima.com](mailto:emailshelima@shelima.com)
+[email@shelima.com](mailto:shelima@shelima.com)
